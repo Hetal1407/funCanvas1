@@ -1,5 +1,3 @@
-// const { init } = require("emailjs-com");
-
 console.log("this is canvas tutorial");
 
 var canvas = document.querySelector("canvas");
